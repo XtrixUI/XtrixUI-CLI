@@ -1,1 +1,1 @@
-# XtrixUI-CLI
+# XtrixUI CLI
